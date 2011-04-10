@@ -1,0 +1,15 @@
+SwearBukkit
+by quantumrex
+
+This is a simple plugin I'm doing on request from the server I play on.
+
+There are several complaints about language on this server, so this plugin
+aims to help combat this issue by censoring and fining players based on their chat.
+
+I hope to support censoring players, levying fines against them thru the iConomy 
+plugin, and maybe even implementing temporary bans after continual usage.
+
+Possible future support for:
+ - other economy plugins.
+ - player damage or inventory based fines?
+ - Ummm, I dunno. I'm open to suggestions...

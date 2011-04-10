@@ -1,0 +1,24 @@
+name: SwearBukkit
+main: com.nhksos.quantumrex.SwearBukkit.SwearBukkit
+version: 0.01
+website: http://github.com/quantumrex/SwearBukkit
+author: quantumrex
+
+description: >
+             Provides a method for censorship and cleaning of  the basic 
+             minecraft chat system.
+             
+
+commands:
+  censoron:
+    description: Enable the censoring function
+    usage: /<command> 
+    aliases: [con]
+  censoroff:
+    description: Disable the censor
+    usage: /<command> 
+    aliases: [coff, cof]
+  censorlog:
+    description: View a log of all instances of censorship.
+    usage: /<command> 
+    aliases: [clog]
